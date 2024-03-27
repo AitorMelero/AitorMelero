@@ -1,4 +1,4 @@
-<img src="https://github.com/AitorMelero/AitorMelero/blob/main/images/coding-1.jpeg" class="center"></img>
+<img src="https://github.com/AitorMelero/AitorMelero/blob/main/images/coding-1.jpeg" width="300"></img>
 
 # > Hola, soy Aitor 👋
 
@@ -55,9 +55,10 @@ Web para jugar una partida de ajedrez entre 2 jugadores en un mismo dispositivo.
 
 ## > Mis datos de contacto 👨🔍
 
-| Contacto         | Enlace                                                                                                                                                   |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Correo           | [![Correo](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:meleropiconaitor@gmail.com)                                     |
-| LinkedIn         | [![LinkedId](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-melero-pic%C3%B3n-678105293) |
-| GitHub Principal | [![GitHub principal](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/AitorMelero)                                      |
-| GitHub Secundario | [![GitHub principal](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=black&color=white)](https://github.com/MrFork27)                                      |
+| Contacto          | Enlace                                                                                                                                                   |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Portfolio         | [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?logo=About.me&logoColor=white)](https://aitormelero.dev)                           |
+| Correo            | [![Correo](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:meleropiconaitor@gmail.com)                                     |
+| LinkedIn          | [![LinkedId](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-melero-pic%C3%B3n-678105293) |
+| GitHub Principal  | [![GitHub principal](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/AitorMelero)                            |
+| GitHub Secundario | [![GitHub secundario](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=black&color=white)](https://github.com/MrFork27)                  |
