@@ -1,6 +1,6 @@
-<img src="https://github.com/AitorMelero/AitorMelero/blob/main/images/coding-1.jpeg" width="300"></img>
-
 # > Hola, soy Aitor 👋
+
+<img src="https://github.com/AitorMelero/AitorMelero/blob/main/images/coding-1.jpeg" width="300"></img>
 
 ## > ¿Quieres saber algo de mí? 🤔
 
